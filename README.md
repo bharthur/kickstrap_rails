@@ -21,6 +21,7 @@ Also you can select theme:
     *= require kickstrap/themes/simplex
     
 To include responsive design, add to your `application.css`:
+
 		*= require responsive
 
 Then just [use kickstrap as normal](http://ajkochanowicz.github.com/Kickstrap/index.html).
